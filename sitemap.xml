@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://aripusrwantosp.github.io/about.html</loc>
+    <lastmod>2019-10-19T20:34:33+07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://aripusrwantosp.github.io/</loc>
+    <lastmod>2019-10-19T20:29:59+07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://aripusrwantosp.github.io/posts.html</loc>
+    <lastmod>2019-10-20T10:04:26+07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://aripusrwantosp.github.io/posts/2019-10-19-using-dplyr-ggplot2-plotly-for-simple-analysis-of-population-structure/</loc>
+    <lastmod>2019-10-20T10:11:52+07:00</lastmod>
+  </url>
+</urlset>

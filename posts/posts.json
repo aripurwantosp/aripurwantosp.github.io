@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2019-10-19-using-dplyr-ggplot2-plotly-for-simple-analysis-of-population-structure/",
+    "title": "Using dplyr ggplot2 & plotly for Simple Analysis of Population Structure",
+    "description": "In this post i present a simple analysis of population structure using 3 main packages: dplyr, ggplot2, plotly. This post will demonstrate how to make a pyramid plot, calculating dependency ratio, and analyze similarity structure year to year. Case study in this post is Indonesia, using Population Projection Data based 2015 Intercensal survey by Statistics Indonesia (Badan Pusat Statistik).",
+    "author": [
+      {
+        "name": "Ari Purwanto Sarwo Prasojo",
+        "url": "https://www.linkedin.com/in/ari-purwanto26/"
+      }
+    ],
+    "date": "2019-10-19",
+    "categories": [],
+    "preview": "posts/2019-10-19-using-dplyr-ggplot2-plotly-for-simple-analysis-of-population-structure/using-dplyr-ggplot-plotly-for-simple-analysis-of-population-structure_files/figure-html5/unnamed-chunk-3-1.png",
+    "last_modified": "2019-10-20T10:11:52+07:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  }
+]
