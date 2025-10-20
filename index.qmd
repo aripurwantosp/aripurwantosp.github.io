@@ -1,0 +1,14 @@
+---
+title: "Ari P.S. Prasojo"
+---
+
+::: {#home .container}
+![](images/ari-photo.jpg){width=160 style="border-radius:50%; float:left; margin-right:20px;"}
+
+### Ari Purwanto Sarwo Prasojo
+Researcher in Social Demography and Data Science  
+Research Center for Population, National Research and Innovation Agency
+
+I’m a researcher focusing on demographic analysis, social data science, and the application of machine learning in population studies.
+
+:::

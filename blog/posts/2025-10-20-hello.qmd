@@ -1,0 +1,7 @@
+---
+title: "Hello, Quarto!"
+date: 2025-01-01
+categories: [blog, quarto]
+---
+
+My first post using Quarto.

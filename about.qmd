@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+## About Me
+
+I’m Ari Prasojo, a researcher focusing on social demography, data science, and computational approaches to population studies.

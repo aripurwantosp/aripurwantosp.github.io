@@ -1,0 +1,23 @@
+{
+  "about.qmd": {
+    "about.html": "c94b1a1a"
+  },
+  "blog/index.qmd": {
+    "index.html": "2b195b95"
+  },
+  "blog/posts/2025-10-20-hello.qmd": {
+    "2025-10-20-hello.html": "948b3156"
+  },
+  "index.qmd": {
+    "index.html": "d6e0fd8d"
+  },
+  "projects/index.qmd": {
+    "index.html": "eafc3e2b"
+  },
+  "publications/index.qmd": {
+    "index.html": "56b2083f"
+  },
+  "software/index.qmd": {
+    "index.html": "b3461385"
+  }
+}
