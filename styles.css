@@ -1,1 +1,17 @@
 /* css styles */
+/* --- Style untuk ikon sosial di bagian home --- */
+a {
+  color: #0072b2;  
+  text-decoration: none !important;   /* hilangkan garis bawah */
+}
+
+#home a i {
+  color: #333;                        /* warna ikon netral (abu gelap) */
+  margin-right: 12px;                 /* jarak antar ikon */
+  transition: color 0.3s ease;        /* efek halus saat hover */
+  vertical-align: middle;
+}
+
+#home a i:hover {
+  color: #0072b2;                     /* warna saat hover (biru lembut) */
+}

@@ -2,15 +2,14 @@ project:
   type: website
 
 website:
-  title: "Ari P.S. Prasojo"
+  title: "Ari P S Prasojo"
   description: "Personal website of Ari P.S. Prasojo"
   site-url: "https://aripurwantosp.github.io"
   favicon: images/ari-photo.jpg
 
   navbar:
+    background: "#234460"
     left:
-      - href: index.qmd
-        text: Home
       - href: blog/index.qmd
         text: Blog
       - href: publications/index.qmd
@@ -28,6 +27,12 @@ website:
 format:
   html:
     theme: flatly
+    include-in-header:
+      - text: |
+          <!-- Font Awesome -->
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+          <!-- Academicons -->
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
     css: styles.css
     toc: true
     toc-location: right

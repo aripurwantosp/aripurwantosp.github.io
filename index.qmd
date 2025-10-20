@@ -1,14 +1,22 @@
----
-title: "Ari P.S. Prasojo"
----
-
-::: {#home .container}
-![](images/ari-photo.jpg){width=160 style="border-radius:50%; float:left; margin-right:20px;"}
+::: {#home}
+![](images/ari-photo.jpg){width="160" style="float:left; margin-right:20px;"}
 
 ### Ari Purwanto Sarwo Prasojo
-Researcher in Social Demography and Data Science  
-Research Center for Population, National Research and Innovation Agency
 
-I’m a researcher focusing on demographic analysis, social data science, and the application of machine learning in population studies.
+Junior Researcher in Quantitative and Computational Social Demography <br>
+Research Center for Population, [National Research and Innovation Agency](https://brin.go.id/), Indonesia.
+
+<a href="https://scholar.google.com/citations?user=VaSzfgkAAAAJ&hl" target="_blank">
+  <i class="ai ai-google-scholar ai-2x" style="margin-right:10px;"></i>
+</a>
+<a href="https://github.com/aripurwantosp" target="_blank">
+  <i class="fa-brands fa-github fa-2x" style="margin-right:10px;"></i>
+</a>
+<a href="https://github.com/aripurwantosp/aripurwantosp.github.io/blob/main/Prasojo_CV_ID_19052025.pdf" target="_blank">
+  <i class="ai ai-cv ai-2x" style="margin-right:10px;"></i>
+</a>
+<a href="mailto:arip003@brin.go.id">
+  <i class="fa fa-envelope fa-2x"></i>
+</a>
 
 :::
