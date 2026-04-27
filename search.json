@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "blog/posts/2025-10-20-hello.html",
-    "href": "blog/posts/2025-10-20-hello.html",
-    "title": "Hello, Quarto!",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ari P S Prasojo",
     "section": "",
-    "text": "My first post using Quarto."
+    "text": "Ari Purwanto Sarwo Prasojo\nJunior Researcher in Quantitative and Computational Social Demography  Research Center for Population, National Research and Innovation Agency, Indonesia."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog! I write about data science, demography, and research workflow.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, Quarto!\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -21,17 +28,38 @@
     "text": "I’m Ari Prasojo, a researcher focusing on social demography, data science, and computational approaches to population studies."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Welcome to my blog! I write about data science, demography, and research workflow.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, Quarto!\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\nNo matching items"
+    "objectID": "about.html#adress",
+    "href": "about.html#adress",
+    "title": "About",
+    "section": "Adress",
+    "text": "Adress"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ari P S Prasojo",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "about.html#employment-history",
+    "href": "about.html#employment-history",
+    "title": "About",
+    "section": "Employment history",
+    "text": "Employment history"
+  },
+  {
+    "objectID": "blog/posts/2025-10-20-hello.html",
+    "href": "blog/posts/2025-10-20-hello.html",
+    "title": "Hello, Quarto!",
     "section": "",
-    "text": "Ari Purwanto Sarwo Prasojo\nJunior Researcher in Quantitative and Computational Social Demography  Research Center for Population, National Research and Innovation Agency, Indonesia."
+    "text": "My first post using Quarto."
+  },
+  {
+    "objectID": "publications/financial-inclusion-covid19-findex/index.html",
+    "href": "publications/financial-inclusion-covid19-findex/index.html",
+    "title": "Factors Associated with Financial Inclusion in Indonesia Before and During COVID-19: Evidence from Global Findex Data",
+    "section": "",
+    "text": "This study examines the factors associated with financial inclusion and the use of financial technology (FinTech) in Indonesia, both before and during the COVID-19 pandemic, using the Global Findex data from 2017 and 2021. Multivariable logistic regression models were fitted to analyze the factors associated with formal account ownership, savings, borrowing, mobile/Internet payments, and mobile money services usage. The results suggest that formal account ownership remained stable, whereas savings and borrowing declined during the pandemic. Education was observed as a variable with a significant correlation with financial inclusion and the use of FinTech. Higher income and mobile phone ownership significantly increased the likelihood of inclusion for all the indicators. Female individuals have a higher probability of owning a formal account and saving in one than males. Moreover, the pandemic accelerated the adoption of digital financial services. Policy recommendations include: 1) strengthening financial and digital literacy programs, especially for underserved groups; 2) expanding affordable digital infrastructure; 3) developing gender-responsive financial products; 4) balancing FinTech innovation with consumer protection; and 5) leveraging public-private partnerships to scale digital payment ecosystems. Future research should examine the long-term impacts on household resilience and explore the behavioral factors influencing inclusion beyond socioeconomic variables.\nKeywords: financial inclusion, mobile money, digital payment, COVID-19 pandemic, Indonesia.\nR code"
   }
 ]

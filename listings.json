@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/financial-inclusion-covid19-findex/index.html"
+    ]
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/posts/2025-10-20-hello.html"
