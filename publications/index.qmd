@@ -1,5 +1,26 @@
 ---
-title: "Untitled"
-format: html
+pagetitle: "Ari P S Prasojo - Publications"
+toc: false
+exclude-from-recent: true
+listing:
+  contents: "."
+  template: pubs.ejs
+  sort: "date desc"
+  feed:
+    title: "Publications by Ari P S Prasojo"
+    description: "Research publications by Ari P S Prasojo"
+  categories: true
+  sort-ui: false
+  filter-ui: [date, title, author, details]
+  date-format: "YYYY"
+  page-size: 999
+sidebar: false
+page-layout: full
+title-block-banner: false
+language:
+  listing-page-field-categories: "Type"
 ---
 
+# Publications
+
+## Papers

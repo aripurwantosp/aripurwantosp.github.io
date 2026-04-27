@@ -10,8 +10,6 @@ website:
   navbar:
     background: "#234460"
     left:
-      - href: blog/index.qmd
-        text: Blog
       - href: publications/index.qmd
         text: Publications
       - href: software/index.qmd
@@ -22,7 +20,7 @@ website:
         text: About
 
   page-footer:
-    left: © 2025 Ari Purwanto Sarwo Prasojo 
+    left: © 2026 Ari Purwanto Sarwo Prasojo 
 
 format:
   html:
