@@ -1,1 +1,1 @@
-Sitemap: https://aripurwantosp.com/sitemap.xml
+Sitemap: https://aripurwantosp.github.io/sitemap.xml
