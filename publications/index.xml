@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Publications by Ari P S Prasojo</title>
-<link>https://aripurwantosp.github.io/publications/</link>
-<atom:link href="https://aripurwantosp.github.io/publications/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://aripurwantosp.com/publications/</link>
+<atom:link href="https://aripurwantosp.com/publications/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research publications by Ari P S Prasojo</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Wed, 31 Dec 2025 17:00:00 GMT</lastBuildDate>
 <item>
   <title>Factors Associated with Financial Inclusion in Indonesia Before and During COVID-19: Evidence from Global Findex Data</title>
   <dc:creator>Puguh Prasetyoputra, Yovita Isnasari, Ari P S Prasojo, Iwan Hermawan</dc:creator>
-  <link>https://aripurwantosp.github.io/publications/financial-inclusion-covid19-findex/</link>
+  <link>https://aripurwantosp.com/publications/financial-inclusion-covid19-findex/</link>
   <description><![CDATA[ 
 
 
@@ -29,7 +29,7 @@
 
  ]]></description>
   <category>Articles</category>
-  <guid>https://aripurwantosp.github.io/publications/financial-inclusion-covid19-findex/</guid>
+  <guid>https://aripurwantosp.com/publications/financial-inclusion-covid19-findex/</guid>
   <pubDate>Wed, 31 Dec 2025 17:00:00 GMT</pubDate>
 </item>
 </channel>
