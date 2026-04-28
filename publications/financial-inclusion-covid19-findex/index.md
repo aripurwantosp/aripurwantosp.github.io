@@ -12,9 +12,9 @@ tags:
 - regression
 - multiple imputation
 doi: 10.19139/soic-2310-5070-2852
-link: http://www.iapress.org/index.php/soic/article/view/2852
-github: https://github.com/aripurwantosp/covid19_financial_inclusion_findex_indonesia_data_analysis
-file: papers/ppetal_2019_fininclfindex.pdf
+online: http://www.iapress.org/index.php/soic/article/view/2852
+github: aripurwantosp/covid19_financial_inclusion_findex_indonesia_data_analysis
+file: ppetal_2019_fininclfindex.pdf
 ---
 
 This study examines the factors associated with financial inclusion and the use of financial technology (FinTech) in Indonesia, both before and during the COVID-19 pandemic, using the Global Findex data from 2017 and 2021. Multivariable logistic regression models were fitted to analyze the factors associated with formal account ownership, savings, borrowing, mobile/Internet payments, and mobile money services usage. The results suggest that formal account ownership remained stable, whereas savings and borrowing declined during the pandemic. Education was observed as a variable with a significant correlation with financial inclusion and the use of FinTech. Higher income and mobile phone ownership significantly increased the likelihood of inclusion for all the indicators. Female individuals have a higher probability of owning a formal account and saving in one than males. Moreover, the pandemic accelerated the adoption of digital financial services. Policy recommendations include: 1) strengthening financial and digital literacy programs, especially for underserved groups; 2) expanding affordable digital infrastructure; 3) developing gender-responsive financial products; 4) balancing FinTech innovation with consumer protection; and 5) leveraging public-private partnerships to scale digital payment ecosystems. Future research should examine the long-term impacts on household resilience and explore the behavioral factors influencing inclusion beyond socioeconomic variables.

@@ -4,7 +4,7 @@ project:
 website:
   title: "Ari P S Prasojo"
   description: "Personal website of Ari P.S. Prasojo"
-  site-url: "https://aripurwantosp.github.io"
+  site-url: "https://aripurwantosp.com"
   open-graph: true
   favicon: images/ari-photo.jpg
 
